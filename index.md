@@ -6,7 +6,7 @@
 
 ###### 笔记目录
 
-[建立本地git与github链接](../建立github本地关联链接/建立github本地关联链接.md)
+[建立本地git与github链接](./建立github本地关联链接/建立github本地关联链接.md)
 
 
 

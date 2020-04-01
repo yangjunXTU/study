@@ -75,7 +75,7 @@ $$
    l(θ)&=lnL(θ)=\sum_{i=1}^m ln[ p_{i}^{y_i}(1-p_i)^{1-y_i}] \\
    &=\sum_{i=1}^m ln[ (\frac {1}{1+e^{-f_i}})^{(y_i+1)/2}(\frac {1}{1+e^{f_i}})^{-(y_i-1)/2}] \\
    loss(y_i,\hat {y_i})&=-l(θ)=\sum_{i=1}^m[{\frac {y_i+1}{2}} ln ( {1+e^{-f_i}})-\frac{y_i-1}{2}(ln(1+e^{f_i}))]\\
-   &= \{ ^{{\sum_{i=1}^m}ln( {1+e^{-f_i}}),\ y_i=1}_{\sum_{i=1}^mln(1+e^{f_i}),\ y_i=-1}  \\
+   &= \{ ^{{\sum_{i=1}^{m}}ln( {1+e^{-f_i}}),\ y_i=1}_{\sum_{i=1}^mln(1+e^{f_i}),\ y_i=-1}  \\
    &= \sum_{i=1}^m [ln(1+e^{-y_i f_i})]
  \end{aligned}
 $$

@@ -6,7 +6,19 @@
 
 ###### 笔记目录
 
-[建立本地git与github链接](./建立github本地关联链接/建立github本地关联链接.md)
+[1、建立本地git与github链接](./建立github本地关联链接/建立github本地关联链接.md)
+
+[2、机器学习算法](./tutorials/machine_learning)
+
+​	[逻辑回归算法](./tutorials/machine_learning/Logistic.md)
+
+
+
+
+
+
+
+
 
 
 

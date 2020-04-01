@@ -8,12 +8,10 @@
 
 [1、建立本地git与github链接](./建立github本地关联链接/建立github本地关联链接.md)
 
-[2、机器学习算法](./tutorials/machine_learning)
-
-​	[逻辑回归算法](./tutorials/machine_learning/Logistic.md)
-
-
-
+<details>
+ <summary>2、机器学习算法 </summary>
+ <p> <a href=./tutorials/machine_learning/Logistic.md>逻辑回归算法</a> </p>
+</details>
 
 
 

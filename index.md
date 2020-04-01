@@ -10,9 +10,10 @@
 
 <details>
  <summary>2、机器学习算法 </summary>
- <p> <a href=./tutorials/machine_learning/Logistic.md>逻辑回归算法</a> </p>
-    [逻辑回归算法](./study/tutorials/machine_learning/Logistic.md)
+ <p > <a href=./tutorials/machine_learning/Logistic.md>逻辑回归算法</a> </p>
 </details>
+
+
 
 
 
